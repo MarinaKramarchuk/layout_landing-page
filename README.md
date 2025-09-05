@@ -26,4 +26,7 @@ The project was created to practice layout building, responsive design, and clea
 - **Figma Design:** (https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=26-333&t=pPre26Aain9TQYee-0)  
 
 
-
+## ⚙️ How to Run the Project
+  Make sure you have Node.js and npm installed.
+  Install project dependencies: npm install
+  Run Sass in watch mode to compile styles: npm start
