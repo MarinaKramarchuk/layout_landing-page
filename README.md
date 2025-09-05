@@ -22,7 +22,7 @@ The project was created to practice layout building, responsive design, and clea
 ---
 
 ## 🔗 Links
-- **Live Preview:** [add your link here]  
+- **Live Preview:** (https://marinakramarchuk.github.io/layout_landing-page/)
 - **Figma Design:** (https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=26-333&t=pPre26Aain9TQYee-0)  
 
 
